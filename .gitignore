@@ -1,0 +1,41 @@
+# Python build / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs / temp
+*.log
+*.tmp
+*.sqlite3
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local run artifacts
+winner_history.txt
+.deps_installed
+luckydraw.db
+
+# Environment / secrets
+.env
+*.env.local
