@@ -206,4 +206,4 @@ if __name__ == '__main__':
 - 建议的 Commit 格式：`feat:` / `fix:` / `chore:` / `docs:` / `refactor:` / `test:` 前缀。
 
 **License**
-- 当前未附加 License，作为内部/学习用途；若需公开开源可考虑添加 MIT 或 Apache-2.0 许可证文件。
+- 本项目采用 MIT 许可证，详见 `LICENSE` 文件。
