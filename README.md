@@ -1,3 +1,14 @@
+<p align="left">
+  <a href="https://github.com/m0n3rt/LuckyDrawBEST/actions/workflows/ci.yml">
+    <img src="https://github.com/m0n3rt/LuckyDrawBEST/actions/workflows/ci.yml/badge.svg" alt="CI">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.10%20|%203.11%20|%203.12-blue" alt="Python Versions">
+  <img src="https://img.shields.io/badge/FastAPI-0.111.0-009688" alt="FastAPI">
+</p>
+
 **项目概览**
 - **名称**: LuckyDrawBEST — 桌面抽奖客户端 + 后端原型
 - **用途**: 提供一个美化过的桌面抽奖界面（Tkinter），以及一个用于扫码/注册与权威抽奖的 FastAPI 后端原型。
